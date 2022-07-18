@@ -1,0 +1,28 @@
+body {
+  background-color: #FAF5E4;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 20px 20px;
+  border-top-color: #FF6363;
+  width: 20%;
+}
+
+H1 {
+  Color: #F8B400
+}
+
+h3 {
+  Color: #F8B400
+}
+
+a {
+  color: #FF6363;
+  text-decoration: none;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #F8B400;
+}
