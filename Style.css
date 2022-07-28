@@ -1,28 +1,80 @@
-body {
-  background-color: #FAF5E4;
+   body {
+  margin: 0px;
+color: #184D47;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
-hr {
-  border-style: dotted none none;
-  border-width: 20px 20px;
-  border-top-color: #FF6363;
-  width: 20%;
+h1 {
+
+  font-family:   'Covered By Your Grace', cursive;
 }
 
-H1 {
-  Color: #F8B400
+h2 {
+  font-family: 'Monoton', cursive;
 }
 
 h3 {
-  Color: #F8B400
+  font-family: 'Shadows Into Light', cursive;
+}
+/*************class selctor*********/
+
+.top-section {
+
+  background-color: #E3F8FF;
+ margin: 0 auto 0 auto;
+ position: relative;
+ padding-top: ; 100px;
 }
 
-a {
-  color: #FF6363;
-  text-decoration: none;
+.middle-container {
+
+  background-color: #28CC9E;
+color: #FCF9C6;
+  text-align: center;
 }
 
-a:focus {
-  border-bottom: 1px solid;
-  background: #F8B400;
+.bottom-container {
+  background-color: #FFDD83;
+color: #461111;
+  text-align: center;
 }
+
+.top-cloud {
+position: absolute;
+width: 20%;
+height: 20%;
+top: 10%;
+left: 35%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  top: 2%;
+  left: 65%;
+
+}
+
+.mountain {
+  overflow:hidden;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+
+/*********font choices************/
+font-family: 'Covered By Your Grace', cursive;
+
+font-family: 'Monoton', cursive;
+
+font-family: 'Montserrat', sans-serif;
+
+font-family: 'Rampart One', cursive;
+
+font-family: 'Shadows Into Light', cursive;
